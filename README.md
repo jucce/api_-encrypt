@@ -31,6 +31,13 @@ c、openssl rsa -in rsa_private_key.pem -pubout -out rsa_public_key.pem
 
 网址：http://www.bm8.com.cn/webtool/rsa/
 
+##3.js aes 和php 通信
+
+下载js 插件
+https://github.com/brix/crypto-js
+
+aes.html 文件即为js的aes加密
+
 
 
 
